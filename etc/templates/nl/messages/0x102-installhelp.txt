@@ -26,4 +26,4 @@
     wilt houden.
 
   - Meer informatie vindt u op:
-    https://documentation.wazuh.com
+    https://documentation.wrixte.co

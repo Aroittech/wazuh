@@ -1,7 +1,7 @@
  - Se desideri monitorare qualsiasi altro file, modifica ossec.conf
    e aggiungi una nuova, specifica, sezione.
    Per qualsiasi dubbio sulla configurazione visita il sito del progetto
-   all'indirizzo https://documentation.wazuh.com/.
+   all'indirizzo https://documentation.wrixte.co/.
 
 
    --- Premi ENTER per continuare ---

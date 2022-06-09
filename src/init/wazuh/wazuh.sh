@@ -1,8 +1,8 @@
 #!/bin/sh
 
-#Copyright (C) 2015, Wazuh Inc.
+#Copyright (C) 2022, Wrixte
 # Install functions for Wazuh
-# Wazuh.com (https://github.com/wazuh)
+# Wrixte.co (https://github.com/wazuh)
 
 patch_version(){
         rm -rf $PREINSTALLEDDIR/etc/shared/ssh > /dev/null 2>&1

@@ -1,4 +1,4 @@
-/* Copyright (C) 2015, Wazuh Inc.
+/* Copyright (C) 2022, Wrixte
  * Copyright (C) 2009 Trend Micro Inc.
  * All rights reserved.
  *
@@ -99,7 +99,7 @@ BOOL CALLBACK DlgProc(HWND hwnd, UINT Message, WPARAM wParam,
             SendMessage(hStatus, SB_SETPARTS,
                         sizeof(statwidths) / sizeof(int),
                         (LPARAM)statwidths);
-            SendMessage(hStatus, SB_SETTEXT, 0, (LPARAM)"https://wazuh.com");
+            SendMessage(hStatus, SB_SETTEXT, 0, (LPARAM)"https://wrixte.co");
 
 
             /* Initializing config */
@@ -296,7 +296,7 @@ BOOL CALLBACK DlgProc(HWND hwnd, UINT Message, WPARAM wParam,
 
                 case UI_MENU_MANAGE_START:
 
-                    /* Start WAZUH  -- must have a valid config before */
+                    /* Start WRIXTE  -- must have a valid config before */
                     if (strcmp(config_inst.server, FL_NOSERVER) != 0) {
                         ret_code = os_start_service();
                     } else {
@@ -321,7 +321,7 @@ BOOL CALLBACK DlgProc(HWND hwnd, UINT Message, WPARAM wParam,
                     break;
                 case UI_MENU_MANAGE_STOP:
 
-                    /* Stop WAZUH */
+                    /* Stop WRIXTE */
                     ret_code = os_stop_service();
                     if (ret_code == 1) {
                         config_read(hwnd);

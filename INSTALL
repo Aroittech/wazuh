@@ -1,5 +1,5 @@
-WAZUH
-Copyright (C) 2015, Wazuh Inc.
+WRIXTE
+Copyright (C) 2022, Wrixte
 
 Based on OSSEC
 Copyright (C) 2014 Trend Micro Inc.
@@ -7,7 +7,7 @@ Copyright (C) 2014 Trend Micro Inc.
 
 = Information about OSSEC =
 
-Visit https://www.wazuh.com
+Visit https://www.wrixte.co
 
 
 = Recommended Installation =
@@ -72,7 +72,7 @@ To compile everything by yourself the following dependencies need to be installe
 
 The following step is common to all OSes:
 - CMake 3.18 installation
-   $> curl -OL http://packages.wazuh.com/utils/cmake/cmake-3.18.3.tar.gz && tar -zxf cmake-3.18.3.tar.gz
+   $> curl -OL http://packages.wrixte.co/utils/cmake/cmake-3.18.3.tar.gz && tar -zxf cmake-3.18.3.tar.gz
    $> cd cmake-3.18.3 && ./bootstrap --no-system-curl
    $> make -j$(nproc) && make install
    $> cd .. && rm -rf cmake-*

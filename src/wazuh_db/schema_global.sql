@@ -1,6 +1,6 @@
 /*
  * SQL Schema for global database
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  *
  * June 30, 2016.
  *

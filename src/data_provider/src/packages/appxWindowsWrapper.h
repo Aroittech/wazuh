@@ -1,5 +1,5 @@
 /* * Wazuh SYSINFO
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * January 23, 2022.
  *
  * This program is free software; you can redistribute it

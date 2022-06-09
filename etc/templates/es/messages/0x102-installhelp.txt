@@ -26,4 +26,4 @@
     -Elija 'local' si va a monitear un único sistema .
 
   - Para más información dirijase a:
-    https://documentation.wazuh.com
+    https://documentation.wrixte.co

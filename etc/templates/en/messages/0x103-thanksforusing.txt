@@ -1,12 +1,12 @@
 
-   Thanks for using Wazuh.
+   Thanks for using Wrixte.
    Please don't hesitate to contact us if you need help or find
    any bugs.
 
    Use our public Mailing List at:
-          https://groups.google.com/forum/#!forum/wazuh
+          https://groups.google.com/forum/#!forum/wrixte
 
    More information can be found at:
-          - http://www.wazuh.com
+          - http://www.wrixte.co
 
     ---  Press ENTER to finish (maybe more information below). ---

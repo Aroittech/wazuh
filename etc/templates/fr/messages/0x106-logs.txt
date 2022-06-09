@@ -2,7 +2,7 @@
    le fichier ossec.conf en ajoutant une nouvelle valeur
    de nom de fichier local.
    Pour toutes vos questions sur la configuration,
-   consultez notre site web https://documentation.wazuh.com/.
+   consultez notre site web https://documentation.wrixte.co/.
 
 
    --- Appuyez sur Entrée pour continuer ---

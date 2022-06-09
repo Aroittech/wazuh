@@ -1,4 +1,4 @@
-/* Copyright (C) 2015, Wazuh Inc.
+/* Copyright (C) 2022, Wrixte
  * Copyright (C) 2014 Daniel B. Cid
  * All rights reserved.
  *

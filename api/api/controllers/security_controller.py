@@ -1,5 +1,5 @@
-# Copyright (C) 2015, Wazuh Inc.
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Copyright (C) 2022, Wrixte
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is a free software; you can redistribute it and/or modify it under the terms of GPLv2
 
 import logging
@@ -29,7 +29,7 @@ logger = logging.getLogger('wazuh-api')
 auth_re = re.compile(r'basic (.*)', re.IGNORECASE)
 
 
-@deprecate_endpoint(link=f'https://documentation.wazuh.com/{WAZUH_VERSION}/user-manual/api/reference.html#'
+@deprecate_endpoint(link=f'https://documentation.wrixte.co/{WAZUH_VERSION}/user-manual/api/reference.html#'
                          f'operation/api.controllers.security_controller.login_user')
 async def deprecated_login_user(user: str, raw: bool = False) -> web.Response:
     """User/password authentication to get an access token.

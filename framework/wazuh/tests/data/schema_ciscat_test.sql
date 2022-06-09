@@ -1,6 +1,6 @@
 /*
  * SQL Schema SCA tests
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * March 25, 2019.
  * This program is a free software, you can redistribute it
  * and/or modify it under the terms of GPLv2.

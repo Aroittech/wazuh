@@ -25,4 +25,4 @@
   - Επιλέξτε 'local' αν έχετε μόνο ένα υπολογιστή για να παρακολουθείτε.
 
   - Περισσότερες πληροφορίες στη διεύθυνση:
-    https://documentation.wazuh.com
+    https://documentation.wrixte.co

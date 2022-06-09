@@ -1,4 +1,4 @@
-/* Copyright (C) 2015, Wazuh Inc.
+/* Copyright (C) 2022, Wrixte
  * Copyright (C) 2009-2012 Trend Micro Inc.
  * All rights reserved.
  *
@@ -68,9 +68,9 @@
 /* Some global names */
 #define __ossec_name    "Wazuh"
 #define __ossec_version "v4.5.0"
-#define __author        "Wazuh Inc."
-#define __contact       "info@wazuh.com"
-#define __site          "http://www.wazuh.com"
+#define __author        "Wrixte.co"
+#define __contact       "info@wrixte.co"
+#define __site          "http://www.wrixte.co"
 #define __license       "\
 This program is free software; you can redistribute it and/or modify\n\
 it under the terms of the GNU General Public License (version 2) as \n\

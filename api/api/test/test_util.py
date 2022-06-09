@@ -1,5 +1,5 @@
-# Copyright (C) 2015, Wazuh Inc.
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Copyright (C) 2022, Wrixte
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is a free software; you can redistribute it and/or modify it under the terms of GPLv2
 import asyncio
 from datetime import datetime, date
@@ -250,7 +250,7 @@ def test_get_invalid_keys(dikt, f_kwargs, invalid_keys):
 
 @pytest.mark.parametrize('link', [
     '',
-    'https://documentation.wazuh.com/current/user-manual/api/reference.html'
+    'https://documentation.wrixte.co/current/user-manual/api/reference.html'
 ])
 @pytest.mark.asyncio
 async def test_deprecate_endpoint(link):

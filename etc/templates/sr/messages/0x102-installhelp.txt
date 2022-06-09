@@ -23,4 +23,4 @@
   - Izaberi 'lokalnu' ako pratiš samo jedan sistem.
 
   - Više obaveštenja na:
-    https://documentation.wazuh.com
+    https://documentation.wrixte.co

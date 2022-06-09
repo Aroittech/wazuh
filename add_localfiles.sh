@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Wazuh Configuration File Generator
-# Copyright (C) 2015, Wazuh Inc.
+# Copyright (C) 2022, Wrixte
 # November 24, 2016.
 #
 # This program is free software; you can redistribute it

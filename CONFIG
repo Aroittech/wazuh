@@ -1,5 +1,5 @@
 WAZUH
-Copyright (C) 2015, Wazuh Inc.
+Copyright (C) 2022, Wrixte
 
 Based on OSSEC
 Copyright (C) 2014 Trend Micro Inc.
@@ -7,7 +7,7 @@ Copyright (C) 2014 Trend Micro Inc.
 
 = Information about Wazuh =
 
-Visit https://www.wazuh.com
+Visit https://www.wrixte.co
 
 
 = Recommended Installation =
@@ -19,4 +19,4 @@ See INSTALL
 
 Just follow the steps from the install.sh script.
 More information at
-https://documentation.wazuh.com
+https://documentation.wrixte.co

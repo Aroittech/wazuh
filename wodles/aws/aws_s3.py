@@ -2,7 +2,7 @@
 
 # Import AWS S3
 #
-# Copyright (C) 2015, Wazuh Inc.
+# Copyright (C) 2022, Wrixte
 # Copyright: GPLv3
 #
 # Updated by Jeremy Phillips <jeremy@uranusbytes.com>

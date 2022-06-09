@@ -3,7 +3,7 @@
    nieuwe localfile in te brengen.
    Vragen over het configuratie bestand kunnen worden
    beantwoord door ons online te bezoeken op
-   https://documentation.wazuh.com/.
+   https://documentation.wrixte.co/.
 
 
    --- Druk op ENTER om door te gaan ---

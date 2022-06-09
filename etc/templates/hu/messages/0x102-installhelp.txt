@@ -26,4 +26,4 @@
   - Válassza a 'lokális' telepítést, ha csak egy rendszere van,
     amit monitoroznia kell.
 
-  - További információk: https://documentation.wazuh.com
+  - További információk: https://documentation.wrixte.co

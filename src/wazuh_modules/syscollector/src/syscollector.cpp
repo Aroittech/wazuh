@@ -1,6 +1,6 @@
 /*
  * Wazuh SysCollector
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * November 15, 2020.
  *
  * This program is free software; you can redistribute it

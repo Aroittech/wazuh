@@ -3,7 +3,7 @@
  * @brief Definition of FIM database library.
  * @date 2019-08-28
  *
- * @copyright Copyright (C) 2015 Wazuh, Inc.
+ * @copyright Copyright (C) 2015 Wrixte InfoSec Pvt Ltd.
  */
 
 #include "fim_db.h"

@@ -14,14 +14,14 @@ assignees: ''
 <!--
 Whenever possible, issues should be created for bug reporting and feature requests.
 For questions related to the user experience, please refer:
-- Wazuh mailing list: https://groups.google.com/forum/#!forum/wazuh
-- Join Wazuh on Slack: https://wazuh.com/community/join-us-on-slack
+- Wazuh mailing list: https://groups.google.com/forum/#!forum/wrixte
+- Join Wazuh on Slack: https://wrixte.co/community/join-us-on-slack
 
 Please fill the table above. Feel free to extend it at your convenience.
 -->
 
 <!--
 
-You may want to set debug options `<component>.debug=2` (see https://documentation.wazuh.com/current/user-manual/reference/internal-options.html) to get verbose logs. This may help investigate the issue.
+You may want to set debug options `<component>.debug=2` (see https://documentation.wrixte.co/current/user-manual/reference/internal-options.html) to get verbose logs. This may help investigate the issue.
 
 -->

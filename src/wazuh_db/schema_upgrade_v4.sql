@@ -1,6 +1,6 @@
 /*
  * SQL Schema for upgrading databases
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  *
  * October 16, 2019.
  *

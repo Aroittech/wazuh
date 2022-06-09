@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Init functions for Wazuh
-# Copyright (C) 2015, Wazuh Inc.
+# Copyright (C) 2022, Wrixte
 # Author: Daniel B. Cid <daniel.cid@gmail.com>
 
 UN=${NUNAME};

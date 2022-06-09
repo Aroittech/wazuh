@@ -1,6 +1,6 @@
  - Se quiser monitorar qualquer outro arquivo, modifique
    o ossec.conf e adicione uma nova entrada para o arquivo.
-   Qualquer dúvida sobre a configuração, visite https://documentation.wazuh.com/.
+   Qualquer dúvida sobre a configuração, visite https://documentation.wrixte.co/.
 
 
    --- Pressione ENTER para continuar ---

@@ -1,4 +1,4 @@
-/* Copyright (C) 2015, Wazuh Inc.
+/* Copyright (C) 2022, Wrixte
  * Copyright (C) 2015 Trend Micro Inc.
  * All right reserved.
  *

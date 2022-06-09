@@ -1,7 +1,7 @@
-# Copyright (C) 2015, Wazuh Inc.
+# Copyright (C) 2022, Wrixte
 # TODO: mysql and postgresql?
 #
-# Copyright (C) 2015, Wazuh Inc.
+# Copyright (C) 2022, Wrixte
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -1152,7 +1152,7 @@ GUNZIP := gunzip
 GZIP := gzip
 CURL := curl -so
 DEPS_VERSION = 17
-RESOURCES_URL := https://packages.wazuh.com/deps/$(DEPS_VERSION)
+RESOURCES_URL := https://packages.wrixte.co/deps/$(DEPS_VERSION)
 CPYTHON := cpython
 PYTHON_SOURCE := no
 

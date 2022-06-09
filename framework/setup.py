@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-# Copyright (C) 2015, Wazuh Inc.
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Copyright (C) 2022, Wrixte
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is free software; you can redistribute it and/or modify it under the terms of GPLv2
 
 import json
@@ -45,7 +45,7 @@ setup(name='wazuh',
       description='Wazuh control with Python',
       url='https://github.com/wazuh',
       author='Wazuh',
-      author_email='hello@wazuh.com',
+      author_email='hello@wrixte.co',
       license='GPLv2',
       packages=find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
       package_data={'wazuh': ['core/wazuh.json', 'core/cluster/cluster.json', 'rbac/default/*.yaml']},

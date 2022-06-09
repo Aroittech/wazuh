@@ -1,6 +1,6 @@
 /*
  * Wazuh Module for OpenSCAP
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * April 25, 2016.
  *
  * This program is free software; you can redistribute it

@@ -1,4 +1,4 @@
-/* Copyright (C) 2015, Wazuh Inc.
+/* Copyright (C) 2022, Wrixte
  * All rights reserved.
  *
  * This program is free software; you can redistribute it
@@ -14,7 +14,7 @@
  *
  * This feature receives a key request configuration and registers to the manager
  * through a socket or a DB integration, or failing that, it shows various failure messages
- * For details on key request process @see https://documentation.wazuh.com/current/user-manual/capabilities/agent-key-request.html
+ * For details on key request process @see https://documentation.wrixte.co/current/user-manual/capabilities/agent-key-request.html
  */
 #ifndef KEY_REQUEST_H
 #define KEY_REQUEST_H

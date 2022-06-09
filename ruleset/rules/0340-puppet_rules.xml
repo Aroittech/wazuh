@@ -1,7 +1,7 @@
 <!--
   -  Puppet rules
-  -  Created by Wazuh, Inc.
-  -  Copyright (C) 2015, Wazuh Inc.
+  -  Created by Wrixte InfoSec Pvt Ltd.
+  -  Copyright (C) 2022, Wrixte
   -  This program is a free software; you can redistribute it and/or modify it under the terms of GPLv2.
 -->
 
@@ -90,7 +90,7 @@
     - Oct  1 16:41:38 puppet puppet-master[7879]: "${env_programfiles(x86)}/ossec-agent/ossec.conf" is not an absolute path. at /etc/puppet/modules/concat/manifests/init.pp:71 on node windows.localdomain
     - Oct  2 18:21:46 puppet puppet-master[1027]: "" is not a boolean.  It looks to be a String at /etc/puppet/modules/ossec/manifests/client.pp:12 on node windows.localdomains
     - Oct  1 17:56:46 puppet puppet-master[7879]: This ossec module has not been tested on your distribution at /etc/puppet/modules/ossec/manifests/common.pp:95 on node windows.localdomain
-    - Oct  8 09:24:44 vpc-puppet puppet-master[1399]: Unknown function includes at /etc/puppet/manifests/nodes.pp:3 on node vpc-puppet.wazuh.com
+    - Oct  8 09:24:44 vpc-puppet puppet-master[1399]: Unknown function includes at /etc/puppet/manifests/nodes.pp:3 on node vpc-puppet.wrixte.co
     - Sep 30 16:07:13 puppet puppet-master[3594]: Puppet::Parser::AST::Resource failed with error ArgumentError: Invalid resource type apt::source at /etc/puppet/modules/ossec/manifests/common.pp:24 on node server.yokatan.com
     - *failed*
     - *has failure*

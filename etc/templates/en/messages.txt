@@ -10,9 +10,9 @@ help="help"
 
 # Global
 moreinfo="More information at: "
-starting="Starting Wazuh"
+starting="Starting Wrixte"
 systemis="System is"
-modifiedinit="Init script modified to start Wazuh during boot."
+modifiedinit="Init script modified to start Wrixte during boot."
 noboot="Unknown system. No init script added."
 
 # Part 1
@@ -28,7 +28,7 @@ localchose="Local installation chosen"
 
 # Part 2
 settingupenv="Setting up the installation environment"
-wheretoinstall="Choose where to install Wazuh"
+wheretoinstall="Choose where to install Wrixte"
 installat="Installation will be made at "
 deletedir="The installation directory already exists. Should I delete it?"
 
@@ -43,7 +43,7 @@ usingsmtp="Using SMTP server: "
 whatsmtp="What's your SMTP server ip/host?"
 
 # Part 3.1/agent
-serveraddr="What's the IP Address or hostname of the Wazuh server?"
+serveraddr="What's the IP Address or hostname of the Wrixte server?"
 addingip="Adding Server IP"
 addingname="Adding Hostname"
 configprofile="Enter the agent's config profile name (default: blank)"
@@ -94,21 +94,21 @@ yesrunauthd="Running Auth daemon"
 
 # Part 4
 installing="Installing the system"
-startwazuh="Do you want to start Wazuh after the installation?"
-nowazuhstart="Wazuh will not start at the end of installation."
-yeswazuhstart="Wazuh will start at the end of installation."
+startWrixte="Do you want to start Wrixte after the installation?"
+noWrixtestart="Wrixte will not start at the end of installation."
+yesWrixtestart="Wrixte will start at the end of installation."
 runningmake="Running the Makefile"
 
 # Final
 configurationdone="Configuration finished properly"
-tostart="To start Wazuh"
-tostop="To stop Wazuh"
+tostart="To start Wrixte"
+tostop="To stop Wrixte"
 configat="The configuration can be viewed or modified at"
 addserveragent="In order to connect agent and server, you need to add each agent to the server."
 presskey="Press ENTER to continue"
 
 # Update
-wanttoupdate="You already have Wazuh installed. Do you want to update it?"
+wanttoupdate="You already have Wrixte installed. Do you want to update it?"
 mustuninstall="The installation can't proceed without uninstalling old versions. Exiting."
 unabletoupdate="Unable to perform update. A full new install will be required."
 updatecompleted="Update completed."

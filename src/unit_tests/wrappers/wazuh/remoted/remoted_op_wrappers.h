@@ -1,4 +1,4 @@
-/* Copyright (C) 2022, Wazuh Inc.
+/* Copyright (C) 2022, Wrixte.co
  * All rights reserved.
  *
  * This program is free software; you can redistribute it

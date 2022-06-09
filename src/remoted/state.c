@@ -1,7 +1,7 @@
 /* Remoted state management functions
  * May 25, 2018
  *
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * All right reserved.
  *
  * This program is free software; you can redistribute it

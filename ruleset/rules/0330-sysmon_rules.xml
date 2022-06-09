@@ -1,7 +1,7 @@
 <!--
   -  Sysmon rules
-  -  Created by Wazuh, Inc.
-  -  Copyright (C) 2015, Wazuh Inc.
+  -  Created by Wrixte InfoSec Pvt Ltd.
+  -  Copyright (C) 2022, Wrixte
   -  This program is a free software; you can redistribute it and/or modify it under the terms of GPLv2.
 -->
 
@@ -119,7 +119,7 @@
     -  Author: Josh Brower, Josh@DefensiveDepth.com.
     -  Licensed under the MIT License: http://opensource.org/licenses/MIT
     -  Windows Process Attributes documentation here: http://defensivedepth.com/windows-processes
-    -  Updated by Wazuh, Inc. <support@wazuh.com>.
+    -  Updated by Wrixte InfoSec Pvt Ltd. <support@wrixte.co>.
 -->
 
 <group name="sysmon,sysmon_process-anomalies,">

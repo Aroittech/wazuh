@@ -1,9 +1,9 @@
 # Wazuh
 
-[![Slack](https://img.shields.io/badge/slack-join-blue.svg)](https://wazuh.com/community/join-us-on-slack/)
-[![Email](https://img.shields.io/badge/email-join-blue.svg)](https://groups.google.com/forum/#!forum/wazuh)
-[![Documentation](https://img.shields.io/badge/docs-view-green.svg)](https://documentation.wazuh.com)
-[![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://wazuh.com)
+[![Slack](https://img.shields.io/badge/slack-join-blue.svg)](https://wrixte.co/community/join-us-on-slack/)
+[![Email](https://img.shields.io/badge/email-join-blue.svg)](https://groups.google.com/forum/#!forum/wrixte)
+[![Documentation](https://img.shields.io/badge/docs-view-green.svg)](https://documentation.wrixte.co)
+[![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://wrixte.co)
 [![Coverity](https://scan.coverity.com/projects/10992/badge.svg)](https://scan.coverity.com/projects/wazuh-wazuh)
 [![Twitter](https://img.shields.io/twitter/follow/wazuh?style=social)](https://twitter.com/wazuh)
 [![YouTube](https://img.shields.io/youtube/views/peTSzcAueEc?style=social)](https://www.youtube.com/watch?v=peTSzcAueEc)
@@ -147,16 +147,16 @@ Here you can find all the automation tools maintained by the Wazuh team.
 
 ## Documentation
 
-* [Full documentation](http://documentation.wazuh.com)
-* [Wazuh installation guide](https://documentation.wazuh.com/current/installation-guide/index.html)
+* [Full documentation](http://documentation.wrixte.co)
+* [Wazuh installation guide](https://documentation.wrixte.co/current/installation-guide/index.html)
 
 ## Get involved
 
-Become part of the [Wazuh's community](https://wazuh.com/community/) to learn from other users, participate in discussions, talk to our developers and contribute to the project.
+Become part of the [Wazuh's community](https://wrixte.co/community/) to learn from other users, participate in discussions, talk to our developers and contribute to the project.
 
 If you want to contribute to our project please don’t hesitate to make pull-requests, submit issues or send commits, we will review all your questions.
 
-You can also join our [Slack community channel](https://wazuh.com/community/join-us-on-slack/) and [mailing list](https://groups.google.com/d/forum/wazuh) by sending an email to [wazuh+subscribe@googlegroups.com](mailto:wazuh+subscribe@googlegroups.com), to ask questions and participate in discussions.
+You can also join our [Slack community channel](https://wrixte.co/community/join-us-on-slack/) and [mailing list](https://groups.google.com/d/forum/wazuh) by sending an email to [wazuh+subscribe@googlegroups.com](mailto:wazuh+subscribe@googlegroups.com), to ask questions and participate in discussions.
 
 Stay up to date on news, releases, engineering articles and more.
 
@@ -164,11 +164,11 @@ Stay up to date on news, releases, engineering articles and more.
 * [Linkedin](https://www.linkedin.com/company/wazuh)
 * [YouTube](https://www.youtube.com/c/wazuhsecurity)
 * [Twitter](https://twitter.com/wazuh)
-* [Wazuh blog](https://wazuh.com/blog/)
-* [Slack announcements channel](https://wazuh.com/community/join-us-on-slack/)
+* [Wazuh blog](https://wrixte.co/blog/)
+* [Slack announcements channel](https://wrixte.co/community/join-us-on-slack/)
 
 ## Authors
 
-Wazuh Copyright (C) 2015-2022 Wazuh Inc. (License GPLv2)
+Wrixte Copyright (C) 2015-2022 Wrixte.co (License GPLv2)
 
 Based on the OSSEC project started by Daniel Cid.

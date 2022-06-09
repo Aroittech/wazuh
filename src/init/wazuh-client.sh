@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Copyright (C) 2015, Wazuh Inc.
+# Copyright (C) 2022, Wrixte
 # wazuh-control        This shell script takes care of starting
 #                      or stopping ossec-hids
 # Author: Daniel B. Cid <daniel.cid@gmail.com>
@@ -16,7 +16,7 @@ REVISION="40500"
 TYPE="agent"
 
 ###  Do not modify below here ###
-AUTHOR="Wazuh Inc."
+AUTHOR="Wrixte.co"
 DAEMONS="wazuh-modulesd wazuh-logcollector wazuh-syscheckd wazuh-agentd wazuh-execd"
 
 # Reverse order of daemons

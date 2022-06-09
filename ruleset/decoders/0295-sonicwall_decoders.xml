@@ -1,5 +1,5 @@
 <!--
-  -  Copyright (C) 2015, Wazuh Inc.
+  -  Copyright (C) 2022, Wrixte
 -->
 
 <!--
@@ -8,7 +8,7 @@
   Comments:
     Will extract action, srcip, dstip, protocol, srcport and dstport
 
-    The field <plugin_decoder> is required for SonicWall: https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/decoders.html#plugin-decoder
+    The field <plugin_decoder> is required for SonicWall: https://documentation.wrixte.co/current/user-manual/ruleset/ruleset-xml-syntax/decoders.html#plugin-decoder
    
   Examples logs:
     Jan  3 13:45:36 192.168.5.1 id=firewall sn=000SERIAL time="2007-01-03 14:48:06" fw=1.1.1.1 pri=6 c=262144 m=98 msg="Connection Opened" n=23419 src=2.2.2.2:36701:WAN dst=1.1.1.1:50000:WAN proto=tcp/50000

@@ -21,4 +21,4 @@
 
   - Utilize 'local' se você apenas tem um sistema para monitorar.
 
-  - Maiores informações: https://documentation.wazuh.com
+  - Maiores informações: https://documentation.wrixte.co

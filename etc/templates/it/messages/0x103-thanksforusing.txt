@@ -4,9 +4,9 @@
     trovare qualsiasi bug.
 
     Utilizza la nostra Mailing List pubblico presso:
-              https://groups.google.com/forum/#!forum/wazuh
+              https://groups.google.com/forum/#!forum/wrixte
 
     Maggiori informazioni sono disponibili all'indirizzo:
-               - http://www.wazuh.com
+               - http://www.wrixte.co
 
       --- Premere ENTER per finire (forse di più informazioni qui di seguito). ---

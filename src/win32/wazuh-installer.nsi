@@ -33,13 +33,13 @@
 Var is_upgrade
 
 Name "${NAME} Windows Agent v${VERSION}"
-BrandingText "Copyright (C) 2015, Wazuh Inc."
+BrandingText "Copyright (C) 2022, Wrixte"
 OutFile "${OutFile}"
 
 VIProductVersion "4.0.0.0"
 VIAddVersionKey ProductName "${NAME}"
-VIAddVersionKey CompanyName "Wazuh Inc."
-VIAddVersionKey LegalCopyright "2022 - Wazuh Inc."
+VIAddVersionKey CompanyName "Wrixte.co"
+VIAddVersionKey LegalCopyright "2022 - Wrixte.co"
 VIAddVersionKey FileDescription "Wazuh Agent installer"
 VIAddVersionKey FileVersion "${VERSION}"
 VIAddVersionKey ProductVersion "${VERSION}"
@@ -239,10 +239,10 @@ Section "Wazuh Agent (required)" MainSec
     WriteRegStr HKLM SOFTWARE\ossec "Install_Dir" "$INSTDIR"
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "DisplayName" "${NAME} Agent"
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "DisplayVersion" "${VERSION}"
-    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "Publisher" "Wazuh, Inc."
+    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "Publisher" "Wrixte InfoSec Pvt Ltd."
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "DisplayIcon" '"$INSTDIR\favicon.ico"'
-    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "HelpLink" "https://wazuh.com"
-    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "URLInfoAbout" "https://wazuh.com"
+    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "HelpLink" "https://wrixte.co"
+    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "URLInfoAbout" "https://wrixte.co"
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\OSSEC" "UninstallString" '"$INSTDIR\uninstall.exe"'
     ${GetSize} "$INSTDIR" "/S=0K" $0 $1 $2
     IntFmt $0 "0x%08X" $0

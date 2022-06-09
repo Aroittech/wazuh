@@ -1,7 +1,6 @@
 #!/bin/sh
-# Copyright (C) 2015, Wazuh Inc.
-# Installation script for Wazuh
-# Author: Daniel B. Cid <daniel.cid@gmail.com>
+# Copyright (C) 2022, Wrixte
+# Installation script for Wrixte
 
 ### Looking up for the execution directory
 cd `dirname $0`
@@ -753,7 +752,7 @@ AddPFTable()
     echo ""
     echo "   - ${pfmessage}:"
     echo "     ${moreinfo}"
-    echo "     https://documentation.wazuh.com"
+    echo "     https://documentation.wrixte.co"
 
     echo ""
     echo ""
@@ -846,7 +845,7 @@ main()
     fi
 
     # Initial message
-    echo " $NAME $VERSION (Rev. $REVISION) ${installscript} - http://www.wazuh.com"
+    echo " $NAME $VERSION (Rev. $REVISION) ${installscript} - http://www.wrixte.co"
     catMsg "0x101-initial"
     echo ""
     echo "  - $system: $UNAME (${DIST_NAME} ${DIST_VER}.${DIST_SUBVER})"
@@ -1062,13 +1061,13 @@ main()
         echo " - ${addserveragent}"
         echo ""
         echo "   ${moreinfo}"
-        echo "   https://documentation.wazuh.com/"
+        echo "   https://documentation.wrixte.co/"
         echo ""
 
     elif [ "X$INSTYPE" = "Xagent" ]; then
         echo ""
         echo " - ${moreinfo}"
-        echo "   https://documentation.wazuh.com/"
+        echo "   https://documentation.wrixte.co/"
         echo ""
     fi
 

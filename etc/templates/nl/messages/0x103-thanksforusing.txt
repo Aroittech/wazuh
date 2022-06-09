@@ -4,10 +4,10 @@
     nodig hebt of zoek een bug.
 
     Gebruik onze openbare Mailing List:
-             https://groups.google.com/forum/#!forum/wazuh
+             https://groups.google.com/forum/#!forum/wrixte
 
     Meer informatie is te vinden op:
-               - http://www.wazuh.com
+               - http://www.wrixte.co
 
          --- Druk op ENTER om te voltooien. ---
     --- (Misschien meer informatie hieronder). ---

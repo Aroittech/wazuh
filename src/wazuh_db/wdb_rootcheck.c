@@ -1,6 +1,6 @@
 /*
  * Wazuh SQLite integration
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * June 06, 2016.
  *
  * This program is free software; you can redistribute it

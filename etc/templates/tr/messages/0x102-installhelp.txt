@@ -25,4 +25,4 @@
   - Eğer inceleme yapacağınız tek sisteminiz varsa 'yerel' kullanın.
 
   - Daha fazla bilgi:
-    https://documentation.wazuh.com
+    https://documentation.wrixte.co

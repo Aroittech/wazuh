@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  *
  * This program is free software; you can redistribute it
  * and/or modify it under the terms of the GNU General Public
@@ -59,7 +59,7 @@ void test_wm_agent_upgrade_listen_messages_upgrade_command(void **state)
                   "   \"command\": \"upgrade\","
                   "   \"parameters\": {"
                   "        \"agents\": [1],"
-                  "        \"wpk_repo\": \"packages.wazuh.com/wpk\""
+                  "        \"wpk_repo\": \"packages.wrixte.co/wpk\""
                   "    }"
                   "}";
 
@@ -114,7 +114,7 @@ void test_wm_agent_upgrade_listen_messages_upgrade_command(void **state)
                                                                                "   \"command\": \"upgrade\","
                                                                                "   \"parameters\": {"
                                                                                "        \"agents\": [1],"
-                                                                               "        \"wpk_repo\": \"packages.wazuh.com/wpk\""
+                                                                               "        \"wpk_repo\": \"packages.wrixte.co/wpk\""
                                                                                "    }"
                                                                                "}'");
 

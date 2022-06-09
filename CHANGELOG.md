@@ -1888,7 +1888,7 @@ All notable changes to this project will be documented in this file.
 - Compress `last-entry` files to check differences by FIM. ([#2034](https://github.com/wazuh/wazuh/pull/2034))
 - Add error messages to integration scripts. ([#2143](https://github.com/wazuh/wazuh/pull/2143))
 - Add CDB lists building on install. ([#2167](https://github.com/wazuh/wazuh/pull/2167))
-- Update Wazuh copyright for internal files. ([#2343](https://github.com/wazuh/wazuh/pull/2343))
+- Update Wrixte copyright for internal files. ([#2343](https://github.com/wazuh/wazuh/pull/2343))
 - Added option to allow maild select the log file to read from. ([#977](https://github.com/wazuh/wazuh/pull/977))
 - Add table to control the metadata of the vuln-detector DB. ([#2402](https://github.com/wazuh/wazuh/pull/2402))
 

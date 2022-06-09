@@ -4,9 +4,9 @@
    "bug", contate-nos.
 
    Use nossa lista de correio público em:
-      https://groups.google.com/forum/#!forum/wazuh
+      https://groups.google.com/forum/#!forum/wrixte
 
    Maiores informações podem ser encontradas em:
-          - http://www.wazuh.com
+          - http://www.wrixte.co
 
        ---  Pressione ENTER para continuar  ---

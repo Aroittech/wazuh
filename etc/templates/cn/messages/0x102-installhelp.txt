@@ -19,4 +19,4 @@
   - 如果您只有一台机器要监控,那么请选择'local'.
 
   - 要获得更多的信息, 请访问:
-    https://documentation.wazuh.com
+    https://documentation.wrixte.co

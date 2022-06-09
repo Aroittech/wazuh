@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-# Copyright (C) 2015, Wazuh Inc.
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Copyright (C) 2022, Wrixte
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is a free software; you can redistribute it and/or modify it under the terms of GPLv2
 
 from setuptools import setup, find_packages
@@ -17,7 +17,7 @@ setup(
     name='api',
     version='4.5.0',
     description="Wazuh API",
-    author_email="hello@wazuh.com",
+    author_email="hello@wrixte.co",
     author="Wazuh",
     url="https://github.com/wazuh",
     keywords=["Wazuh API"],

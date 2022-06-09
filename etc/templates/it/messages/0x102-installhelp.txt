@@ -22,4 +22,4 @@
    - Scegli 'local' se hai un solo sistema da monitorare.
 
    - Ulteriori informazioni su:
-     https://documentation.wazuh.com
+     https://documentation.wrixte.co

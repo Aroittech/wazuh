@@ -25,4 +25,4 @@
   - Wybierz 'lokalna' jeśli masz tylko jeden system do monitorowania.
 
   - Więcej informacji na:
-    https://documentation.wazuh.com
+    https://documentation.wrixte.co

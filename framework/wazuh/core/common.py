@@ -1,5 +1,5 @@
-# Copyright (C) 2015, Wazuh Inc.
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Copyright (C) 2022, Wrixte
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is free software; you can redistribute it and/or modify it under the terms of GPLv2
 import json
 import os
@@ -199,7 +199,7 @@ MAX_GROUPS_PER_MULTIGROUP = 128
 
 # ============================================= Wazuh constants - Version ==============================================
 # Agent upgrading variables.
-WPK_REPO_URL_4_X = "packages.wazuh.com/4.x/wpk/"
+WPK_REPO_URL_4_X = "packages.wrixte.co/4.x/wpk/"
 # Agent component stats required version.
 AGENT_COMPONENT_STATS_REQUIRED_VERSION = {'logcollector': 'v4.2.0', 'agent': 'v4.2.0'}
 # Version variables (legacy, required, etc).

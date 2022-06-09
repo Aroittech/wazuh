@@ -1,6 +1,6 @@
 /*
  * Event notification
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * May 4, 2018
  *
  * This program is free software; you can redistribute it

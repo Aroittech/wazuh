@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-# Copyright (C) 2015, Wazuh Inc.
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Copyright (C) 2022, Wrixte
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is free software; you can redistribute it and/or modify it under the terms of GPLv2
 import logging
 import socket
@@ -170,7 +170,7 @@ def test_main(input_mock, argparse_mock, wazuh_logtest_class_mock, init_logger_m
     register_mock.assert_called_once_with(wazuh_logtest_class_mock.return_value.remove_last_session)
     sys_exit_mock.assert_has_calls([call(0), call(1)])
 
-    logger_info_mock.assert_has_calls([call('%s', 'Wazuh ERROR - Wazuh Inc.'),
+    logger_info_mock.assert_has_calls([call('%s', 'Wazuh ERROR - Wrixte.co'),
                                        call('%s', '\nThis program is free software; you can redistribute it and/or '
                                                   'modify\nit under the terms of the GNU General Public License '
                                                   '(version 2) as\npublished by the Free Software Foundation. For more '
@@ -576,7 +576,7 @@ def test_wazuh_get_version_str(get_info_mock):
 @patch('scripts.wazuh_logtest.Wazuh.get_version_str', return_value='')
 def test_wazuh_get_description(get_version_mock):
     """Test if the description is being properly retrieved."""
-    assert create_wazuh_class().get_description() == f"Wazuh {get_version_mock.return_value} - Wazuh Inc."
+    assert create_wazuh_class().get_description() == f"Wazuh {get_version_mock.return_value} - Wrixte.co"
     get_version_mock.assert_called_once_with()
 
 

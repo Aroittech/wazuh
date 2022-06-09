@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 ###
-#  Copyright (C) 2015, Wazuh Inc.All rights reserved.
-#  Wazuh.com
+#  Copyright (C) 2022, Wrixte All rights reserved.
+#  Wrixte.co
 #
 #  This program is free software; you can redistribute it
 #  and/or modify it under the terms of the GNU General Public

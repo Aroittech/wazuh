@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Copyright (C) 2015, Wazuh Inc.
+# Copyright (C) 2022, Wrixte
 # Variables - do not modify them
 CHF="compiled_rules.h"
 

@@ -3,7 +3,7 @@ $Env:WAZUH_BACKUP_DIR         = ".\backup"
 $TMP_BACKUP_DIR               = "wazuh_backup_tmp"
 # Finding MSI useful constants
 $Env:WAZUH_DEF_REG_START_PATH = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\"
-$Env:WAZUH_PUBLISHER_VALUE    = "Wazuh, Inc."
+$Env:WAZUH_PUBLISHER_VALUE    = "Wrixte InfoSec Pvt Ltd."
 
 # Select powershell
 if ((Get-WmiObject Win32_OperatingSystem).OSArchitecture -eq "64-bit" -And [System.IntPtr]::Size -eq 4) {

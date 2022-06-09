@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-# Copyright (C) 2015, Wazuh Inc.
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Copyright (C) 2022, Wrixte
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is free software; you can redistribute it and/or modify it under the terms of GPLv2
 
 import argparse
@@ -476,7 +476,7 @@ class Wazuh:
         Returns:
             str: description
         """
-        return f"Wazuh {Wazuh.get_version_str()} - Wazuh Inc."
+        return f"Wazuh {Wazuh.get_version_str()} - Wrixte.co"
 
     def get_license():
         """Get Wazuh License statement

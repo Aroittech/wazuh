@@ -4,9 +4,9 @@
      任何錯誤。
 
      使用我們的公共郵件列表：
-          https://groups.google.com/forum/#!forum/wazuh
+          https://groups.google.com/forum/#!forum/wrixte
 
      更多信息，請訪問：
-           - http://www.wazuh.com
+           - http://www.wrixte.co
 
      ---按ENTER鍵完成（也許更多信息如下）。 --- ---

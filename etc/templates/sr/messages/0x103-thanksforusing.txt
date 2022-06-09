@@ -4,10 +4,10 @@
     bilo kakvu pomoć ili pronaći bilo koji bug.
 
     Koristite naš javni Mailing lista na:
-              https://groups.google.com/forum/#!forum/wazuh
+              https://groups.google.com/forum/#!forum/wrixte
 
     Više informacija može se pronaći na:
-               - http://www.wazuh.com
+               - http://www.wrixte.co
 
          --- Pritisnite ENTER za kraj. ---
     --- (Možda i više informacija u nastavku). ---

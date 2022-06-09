@@ -1,4 +1,4 @@
-# Created by Wazuh, Inc. <info@wazuh.com>.
+# Created by Wrixte InfoSec Pvt Ltd. <info@wrixte.co>.
 # This program is free software; you can redistribute it and/or modify it under the terms of GPLv2
 
 import asyncio

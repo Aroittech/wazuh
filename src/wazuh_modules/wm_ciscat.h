@@ -1,6 +1,6 @@
 /*
  * Wazuh Module for CIS-CAT scanner
- * Copyright (C) 2015, Wazuh Inc.
+ * Copyright (C) 2022, Wrixte
  * December, 2017.
  *
  * This program is free software; you can redistribute it
